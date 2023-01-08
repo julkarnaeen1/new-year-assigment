@@ -48,3 +48,30 @@
 
 /* Banner section end */
 
+/* my failure section start */
+.secound-banner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.secound-banner-title {
+    width: 450px;
+}
+
+.secound-banner-title h2 {
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+
+.secound-banner-title > p {
+    margin-bottom: 30px;
+    color: #636e72;
+}
+
+.icon-banner p img{
+   height: 20px;
+}
+.icon-banner p {
+    color: #636e72;
+}
